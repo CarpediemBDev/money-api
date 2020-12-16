@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.asciidoctor</groupId>
+  <artifactId>asciidoctor-gradle-plugin</artifactId>
+  <version>1.5.8</version>
+  <name>asciidoctor-gradle-plugin</name>
+  <url>https://github.com/asciidoctor/asciidoctor-gradle-plugin</url>
+  <inceptionYear>2013</inceptionYear>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>https://github.com/asciidoctor/asciidoctor-gradle-plugin.git</url>
+  </scm>
+  <developers>
+    <developer>
+      <id>mojavelinux</id>
+      <name>Dan Allen</name>
+      <roles>
+        <role>Asciidoctor Founder and Benevolent Dictator</role>
+        <role>Open Source Hero</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>aalmiray</id>
+      <name>Andres Almiray</name>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>noamt</id>
+      <name>Noam Tenne</name>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+    <developer>
+      <id>bmuschko</id>
+      <name>Benjamin Muschko</name>
+      <roles>
+        <role>Developer</role>
+      </roles>
+    </developer>
+  </developers>
+  <contributors>
+    <contributor>
+      <name>Tom Bujok</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Lukasz Pielak</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Dmitri Vyazelenko</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Rob Winch</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Stefan Schlott</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Stephan Classen</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Marcus Fihlon</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Sean Gilligan</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Adam Folmert</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Hubert Klein Ikkink</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Robert Panzer</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Otmar Humbel</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+    <contributor>
+      <name>Andreas Schmidt</name>
+      <roles>
+        <role>contributor</role>
+      </roles>
+    </contributor>
+  </contributors>
+  <description>A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.</description>
+</project>
